@@ -1,16 +1,27 @@
-### Hi there 👋
+### This is Shatakshi Raman 
+I am a development geek, who is experienced in Web Development and have Xperience in UX design. 
+Currently quarantining with Keras and Tenserflow. 
+Oh and by the way, I am always on a coffee run
 
-<!--
-**aishoo1612/aishoo1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages : 
+1. C++
+2. Python
+3. HTML 
+4. CSS
+5. Dart 
+6. Ruby 
+7. NoSQL 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Interests :
+1. UX Design 
+2. Deep learning 
+3. Anything Harry Potter 
+
+### Skills :
+1. UX Design
+2. UI Development 
+3. Writing ( Find my blog at : https://medium.com/@dev16120000 )
+4. Data Analysis 
+5. Ethical Hacking 
