@@ -47,7 +47,7 @@
  
  - 🐱‍👤 Trying to work on interpretability
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/aisoo1612/)
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" height= "40px" width= "80px"  >](https://twitter.com/aisoo1612/)
  
  <p align="center">
   <h3> SQL | DL | AI | NLP </h3>
