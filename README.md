@@ -17,8 +17,8 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/aishoo1612"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aishoo1612?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@aishoo1612"></a>
-   <a href="https://badges.pufler.dev/repos/aishoo1612"> <img alt="Shatakshi's github" src="https://badges.pufler.dev/repos/aishoo1612"> </a>
+   <a href="https://twitter.com/aishoo1612"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aishoo1612?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@aishoo1612" height="30"></a>
+   <a href="https://badges.pufler.dev/repos/aishoo1612"> <img alt="Shatakshi's github" src="https://badges.pufler.dev/repos/aishoo1612" height="30"> </a>
  </p>
  
  <h5 align="center">
@@ -27,7 +27,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="450px" width="450px" alt="GIF" src="https://media4.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif?cid=ecf05e47j5ybl9r2octpxk3clgug1u457pkcjur9mqg0zdpi&rid=giphy.gif&ct=g" />
 <p align="center">
   <h3> I'm 21 years old dead-beat NLP Developer. Oh and I sometimes, understand Humans</h3>
 </p>
@@ -50,7 +50,7 @@
  - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/aisoo1612/)
  
  <p align="center">
-  <h4> SQL | DL | AI | NLP </h4>
+  <h3> SQL | DL | AI | NLP </h3>
    </p>
 
 
@@ -71,21 +71,8 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">   
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
 
 <!--
 ### - Blogs 🌱
