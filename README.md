@@ -7,6 +7,8 @@
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/shatakshi-raman-b4aaa9155/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <p align='center'>
+   <a href="https://sites.google.com/view/shatakshiraman"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/web.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/aishoo1612"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 
 
